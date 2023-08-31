@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod o+x subdir
+chmod 755 subdir
